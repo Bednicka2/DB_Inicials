@@ -1,5 +1,5 @@
 import turtle
-from tkinter import *
+import tkinter
 from PIL import Image
 import os
 import time
